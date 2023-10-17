@@ -3,7 +3,12 @@ Simple Streamlit HuggingFace Search
 
 ## Dependencies:
 
-'''bash
+```bash
 pip install streamlit huggingface-hub
-'''
-## Run: python app.py
+```
+
+## Run: 
+
+```bash
+python app.py
+```
