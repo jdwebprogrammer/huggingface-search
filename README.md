@@ -10,5 +10,5 @@ pip install streamlit huggingface-hub
 ## Run: 
 
 ```bash
-python app.py
+streamlit run app.py
 ```
